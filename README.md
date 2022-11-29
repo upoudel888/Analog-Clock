@@ -1,4 +1,4 @@
-# Wall-clock
+# Analog clock
 A 3D model of a wall clock that mirrors local time of the computer.   
 This project was coded in **C++** using  **openGL** and **GLUT**
 
